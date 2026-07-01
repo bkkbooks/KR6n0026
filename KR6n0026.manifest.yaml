@@ -1,0 +1,294 @@
+canonical_identifier: bkk:krp/KR6n0026/v1
+canonical_location: https://kanripo.org/bkk/KR6n0026/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 成唯識論述記
+  identifiers:
+    alt_id:
+    - T43n1830
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T43/T43n1830.xml
+    old_id: T43n1830
+  edition:
+    short: bkk
+editions:
+- short: 甲
+  label: 甲
+  source_xml_id: wit1
+- short: 乙
+  label: 乙
+  source_xml_id: wit2
+- short: 大
+  label: 大
+  source_xml_id: wit.orig
+- short: 丙
+  label: 丙
+  source_xml_id: wit3
+- short: 原
+  label: 原
+  source_xml_id: wit4
+- short: 丁
+  label: 丁
+  source_xml_id: wit5
+- short: 戊
+  label: 戊
+  source_xml_id: wit6
+- short: 己
+  label: 己
+  source_xml_id: wit7
+- short: ？
+  label: ？
+  source_xml_id: wit8
+- short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6n0026_000.yaml, hash: 'sha256:09d58211ca956b46fad376a8b92d0db5ae4759c5b47294ed8086d5acb8074b39'}
+  - {seq: 2, filename: KR6n0026_002.yaml, hash: 'sha256:0c82f0f7145cbb4f24e4a9955bf14d78d02eb466501d6b2a537089982fb988e2'}
+  - {seq: 3, filename: KR6n0026_003.yaml, hash: 'sha256:9b3783b8851e66766ff2a03a686f4ddce5b33a4b0ad59a132c2feea501ba298d'}
+  - {seq: 4, filename: KR6n0026_004.yaml, hash: 'sha256:0e56241a2471fcc4cc0971bb6db34c5365ec1ee182807cb735f4b7ccd7fbf129'}
+  - {seq: 5, filename: KR6n0026_005.yaml, hash: 'sha256:804eeef94fe56df42392eeadcb2842406cd9e9ca085255c4290ace99565c7f9b'}
+  - {seq: 6, filename: KR6n0026_006.yaml, hash: 'sha256:2e3b90f4d240aff5fa5e7274590c84983d6185ba125ad41a201aab81aa149da3'}
+  - {seq: 7, filename: KR6n0026_007.yaml, hash: 'sha256:12acbfbfda119a1362f607604886c32f2bde5b01b99481fbe246da2e18b8f4b8'}
+  - {seq: 8, filename: KR6n0026_008.yaml, hash: 'sha256:65d1d84adf2bc724195569675c71c19cc15eabe36c5847fc5ed5fdf2c660bb65'}
+  - {seq: 9, filename: KR6n0026_009.yaml, hash: 'sha256:8d3bb37ec89b7bdf31821159796fa8b001da9738a3c216e3455fc2bd88fe5466'}
+  - {seq: 10, filename: KR6n0026_010.yaml, hash: 'sha256:fdd6c735f671e1622771d66802213b440862b76692e43c411117be1877b32b13'}
+  - {seq: 11, filename: KR6n0026_011.yaml, hash: 'sha256:5420f929467dc44cd87cc531558dc3e3afe20dfb543e12d3aa1ad1cad23f4d9a'}
+  - {seq: 12, filename: KR6n0026_012.yaml, hash: 'sha256:7bf121782ddc85b14a9cf6a1c93b77321a9a94ba78f7b6e36fa999fb73c1a029'}
+  - {seq: 13, filename: KR6n0026_013.yaml, hash: 'sha256:c3748e6af0b21f2bc5ea5d04f5dcd3a8b669db8e606e1a4ed95b780619d7eb92'}
+  - {seq: 14, filename: KR6n0026_014.yaml, hash: 'sha256:c3570792e1af9da15645267d209f22dc57794f2ac35ffb43e4c4567f1115aeda'}
+  - {seq: 15, filename: KR6n0026_015.yaml, hash: 'sha256:d1f5d07b58b2bb3ea8a3f01ed6e8f68a02f32a34e8af82d164d1c613b313fcd9'}
+  - {seq: 16, filename: KR6n0026_016.yaml, hash: 'sha256:27e86fd54309145e6e5b69a53dc85bf965f64eaffe193cc1f6395d4340810331'}
+  - {seq: 17, filename: KR6n0026_017.yaml, hash: 'sha256:80d3d3fe61e3abb63d8eb3958d3b379fcf163ea73607cf0b582f990e848bda8e'}
+  - {seq: 18, filename: KR6n0026_018.yaml, hash: 'sha256:d256a148de622f496a6f96e1b90b0efa6ae63ea6beca867b3dc01fb0b3feb938'}
+  - {seq: 19, filename: KR6n0026_019.yaml, hash: 'sha256:d0400aec38058d5390296d7a6e6046fbaae71edd8d09593713229b3f2382127f'}
+  - {seq: 20, filename: KR6n0026_020.yaml, hash: 'sha256:60abbffa1fa81c6239158d825f416914f5159211cf096ede3daf941927ff6cd1'}
+  - {seq: 21, filename: KR6n0026_021.yaml, hash: 'sha256:f5c96c44d525e4d1307ece2e97a6bd426be465241b4665fa7fd62e623c69d4df'}
+  markers:
+  - {seq: 2, role: markers, filename: assets/KR6n0026_002.markers.yaml, hash: 'sha256:5ac322411e424f5aa35554c006eb69f88af500b2f2bde62b5200653fb89460e6'}
+  - {seq: 3, role: markers, filename: assets/KR6n0026_003.markers.yaml, hash: 'sha256:6328a72ded1a921a528574cdd96ae10fbdb285f45567c04ddab764056511bfcf'}
+  - {seq: 4, role: markers, filename: assets/KR6n0026_004.markers.yaml, hash: 'sha256:c44244df72f7143c5a8e5a1217d6cf1af3fc70d7da1a1615af2582d4072a25de'}
+  - {seq: 5, role: markers, filename: assets/KR6n0026_005.markers.yaml, hash: 'sha256:20c78bd480d50d204fedee2efb7295a3a96f9f91053c4c14d4d19fe9736945a7'}
+  - {seq: 6, role: markers, filename: assets/KR6n0026_006.markers.yaml, hash: 'sha256:7f09b207493045a46b5663869a5e40891e202015364a2f3cd58d5194da84e0a8'}
+  - {seq: 7, role: markers, filename: assets/KR6n0026_007.markers.yaml, hash: 'sha256:706fa52656861656f059aa119e4590881215f944f1c2e917313915041d22210f'}
+  - {seq: 8, role: markers, filename: assets/KR6n0026_008.markers.yaml, hash: 'sha256:3717b33c5f8b0c9a25c5fc26ea059f182f2fc6052cf233d6cd9f633f9aa18e89'}
+  - {seq: 9, role: markers, filename: assets/KR6n0026_009.markers.yaml, hash: 'sha256:3af9e0f1efc60a77ccefffd7be52e7bab46b5996f63288e7ab12f87aa8edad90'}
+  - {seq: 10, role: markers, filename: assets/KR6n0026_010.markers.yaml, hash: 'sha256:e4dbd5ea710c026733fa538ab3dfe000491707050313ab13b991b26a46e8bfd8'}
+  - {seq: 11, role: markers, filename: assets/KR6n0026_011.markers.yaml, hash: 'sha256:7a8b5c1ac4898b5600af6d4b2ffa9be4325682075ebbdae58dcea113eca00cad'}
+  - {seq: 12, role: markers, filename: assets/KR6n0026_012.markers.yaml, hash: 'sha256:a7318e5e8b8ec630e888bd441566682a1c8295e93ae903d498cb4121990824d4'}
+  - {seq: 13, role: markers, filename: assets/KR6n0026_013.markers.yaml, hash: 'sha256:aec2be31282f4816145464704de2a35921f5fcc382210b25a12ed11c09465133'}
+  - {seq: 14, role: markers, filename: assets/KR6n0026_014.markers.yaml, hash: 'sha256:177e5ff00be5782c44f2bf4ce6e7ba99547a019d5de66cf2387bb60d961f90da'}
+  - {seq: 15, role: markers, filename: assets/KR6n0026_015.markers.yaml, hash: 'sha256:04bb32dba0a29ef11944a677d24b78f59f620ec6d990fdfb8c2f18e56ae21a69'}
+  - {seq: 16, role: markers, filename: assets/KR6n0026_016.markers.yaml, hash: 'sha256:6bf5892f4b8d3dcd41b6b6bd54b26701f3c09d6dd3987a72f3e7dc300d2b8a0a'}
+  - {seq: 17, role: markers, filename: assets/KR6n0026_017.markers.yaml, hash: 'sha256:f34d0fd5d1caa285a77b1f04ae8d0d1ee6cbb882c794c827b6599e64b7d7e4b3'}
+  - {seq: 18, role: markers, filename: assets/KR6n0026_018.markers.yaml, hash: 'sha256:8df0d4b1f62d3359e4ce60f441e438fb7f3c2cf8e2b956388611b4dfdba9eef5'}
+  - {seq: 19, role: markers, filename: assets/KR6n0026_019.markers.yaml, hash: 'sha256:a09409c57a346cb8f0204e475fbdcc88c34ba70583595302bd2942211288e77e'}
+  - {seq: 20, role: markers, filename: assets/KR6n0026_020.markers.yaml, hash: 'sha256:81e19ac8dc3e6567ec829c86454f5522ee39936ab57c55e96b0f7eae73b0f861'}
+  - {seq: 21, role: markers, filename: assets/KR6n0026_021.markers.yaml, hash: 'sha256:e05bfdde1e63335facd153d68f2ec373ad8a2335882af4ea1d108ddb8e3a81c8'}
+table_of_contents:
+- ref:
+    seq: 2
+    marker_id: KR6n0026_T_001a-juan-start
+    span:
+    - body
+    - 0
+    - 24793
+  label: 成唯識論述記卷第一本
+  type: juan
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6n0026_T_001b-juan-start
+    span:
+    - body
+    - 0
+    - 24620
+  label: 成唯識論述記卷第一末
+  type: juan
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6n0026_T_002a-juan-start
+    span:
+    - body
+    - 0
+    - 21830
+  label: 成唯識論述記卷第二本
+  type: juan
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6n0026_T_002b-juan-start
+    span:
+    - body
+    - 0
+    - 32945
+  label: 成唯識論述記卷第二末
+  type: juan
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6n0026_T_003a-juan-start
+    span:
+    - body
+    - 0
+    - 24166
+  label: 成唯識論述記卷第三本
+  type: juan
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6n0026_T_003b-juan-start
+    span:
+    - body
+    - 0
+    - 23265
+  label: 成唯識論述記卷第三末
+  type: juan
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6n0026_T_004a-juan-start
+    span:
+    - body
+    - 0
+    - 25157
+  label: 成唯識論述記卷第四本
+  type: juan
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6n0026_T_004b-juan-start
+    span:
+    - body
+    - 0
+    - 26110
+  label: 成唯識論述記卷第四末
+  type: juan
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6n0026_T_005a-juan-start
+    span:
+    - body
+    - 0
+    - 23358
+  label: 成唯識論述記卷第五本
+  type: juan
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6n0026_T_005b-juan-start
+    span:
+    - body
+    - 0
+    - 26396
+  label: 成唯識論述記卷第五末
+  type: juan
+  level: 1
+- ref:
+    seq: 12
+    marker_id: KR6n0026_T_006a-juan-start
+    span:
+    - body
+    - 0
+    - 20016
+  label: 成唯識論述記卷第六本
+  type: juan
+  level: 1
+- ref:
+    seq: 13
+    marker_id: KR6n0026_T_006b-juan-start
+    span:
+    - body
+    - 0
+    - 27529
+  label: 成唯識論述記卷第六末
+  type: juan
+  level: 1
+- ref:
+    seq: 14
+    marker_id: KR6n0026_T_007a-juan-start
+    span:
+    - body
+    - 0
+    - 26810
+  label: 成唯識論述記卷第七本
+  type: juan
+  level: 1
+- ref:
+    seq: 15
+    marker_id: KR6n0026_T_007b-juan-start
+    span:
+    - body
+    - 0
+    - 22408
+  label: 成唯識論述記卷第七末
+  type: juan
+  level: 1
+- ref:
+    seq: 16
+    marker_id: KR6n0026_T_008a-juan-start
+    span:
+    - body
+    - 0
+    - 23948
+  label: 成唯識論述記卷第八本
+  type: juan
+  level: 1
+- ref:
+    seq: 17
+    marker_id: KR6n0026_T_008b-juan-start
+    span:
+    - body
+    - 0
+    - 23347
+  label: 成唯識論述記卷第八末
+  type: juan
+  level: 1
+- ref:
+    seq: 18
+    marker_id: KR6n0026_T_009a-juan-start
+    span:
+    - body
+    - 0
+    - 19029
+  label: 成唯識論述記卷第九本
+  type: juan
+  level: 1
+- ref:
+    seq: 19
+    marker_id: KR6n0026_T_009b-juan-start
+    span:
+    - body
+    - 0
+    - 25025
+  label: 成唯識論述記卷第九末
+  type: juan
+  level: 1
+- ref:
+    seq: 20
+    marker_id: KR6n0026_T_010a-juan-start
+    span:
+    - body
+    - 0
+    - 20905
+  label: 成唯識論述記卷第十本
+  type: juan
+  level: 1
+- ref:
+    seq: 21
+    marker_id: KR6n0026_T_010b-juan-start
+    span:
+    - body
+    - 0
+    - 22327
+  label: 成唯識論述記卷第十末
+  type: juan
+  level: 1
+hash: sha256:7a7c866922509b1e6bbc82fd5d2d6ef337144693f604cd1f0f05d7dc2ef1fbab
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
